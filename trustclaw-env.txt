@@ -1,0 +1,4 @@
+DATABASE_URL=postgresql://neondb_owner:npg_VDPyOY2kb8jq@ep-snowy-poetry-apq6abr2-pooler.c-7.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+BETTER_AUTH_SECRET=kLCgBuScrfngz3gBvpg-3GJyDyCsRl1PntNL5-i6Hiw
+CRON_SECRET=RFW22rokclkkjhEvzV754gtOg-cIpWHntm5oJ0ZHvNI
+COMPOSIO_API_KEY=ak_vGwvEi2YH_7p4mbKqJHa
